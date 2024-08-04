@@ -1,0 +1,200 @@
+16;Cable Organizer;Jabees;50000;60
+40;Cable Organizer;UGREEN;55000;55
+64;Cable Organizer;Anker;60000;62
+88;Cable Organizer;Baseus;70000;64
+116;Cable Organizer;Twelve South;60000;63
+140;Cable Organizer;UGREEN;55000;65
+164;Cable Organizer;Baseus;70000;66
+188;Cable Organizer;UGREEN;60000;67
+15;Charger;Xiaomi;150000;45
+39;Charger;Samsung;170000;50
+63;Charger;Apple;200000;40
+87;Charger;Anker;160000;50
+115;Charger;Oppo;140000;47
+139;Charger;Baseus;170000;48
+163;Charger;Apple;190000;41
+187;Charger;Anker;160000;49
+20;Cooling Pad;Cooler Master;250000;15
+44;Cooling Pad;Trust;300000;14
+68;Cooling Pad;Havit;270000;16
+92;Cooling Pad;Cooler Master;300000;15
+120;Cooling Pad;Zalman;280000;16
+144;Cooling Pad;Cooler Master;290000;14
+168;Cooling Pad;Havit;270000;15
+192;Cooling Pad;Cooler Master;290000;14
+14;Docking Station;Anker;850000;7
+38;Docking Station;Dell;900000;6
+62;Docking Station;HP;950000;5
+86;Docking Station;Lenovo;880000;6
+114;Docking Station;Targus;870000;7
+138;Docking Station;HP;920000;6
+162;Docking Station;Dell;890000;5
+186;Docking Station;HP;950000;6
+13;External SSD;Samsung;1200000;10
+37;External SSD;Crucial;1300000;9
+61;External SSD;WD;1400000;8
+85;External SSD;SanDisk;1100000;11
+113;External SSD;ADATA;1250000;10
+137;External SSD;Samsung;1350000;9
+161;External SSD;WD;1400000;8
+185;External SSD;Crucial;1250000;10
+19;Graphics Card;NVIDIA;3000000;5
+43;Graphics Card;AMD;3200000;4
+67;Graphics Card;ASUS;3100000;6
+91;Graphics Card;MSI;3300000;4
+119;Graphics Card;Gigabyte;3400000;5
+143;Graphics Card;ASUS;3300000;5
+167;Graphics Card;MSI;3400000;4
+191;Graphics Card;Gigabyte;3400000;5
+11;Hard Drive;Seagate;900000;14
+35;Hard Drive;Western Digital;950000;13
+59;Hard Drive;Toshiba;850000;15
+83;Hard Drive;Sony;900000;12
+111;Hard Drive;Hitachi;1000000;12
+135;Hard Drive;Western Digital;950000;13
+159;Hard Drive;Seagate;880000;14
+183;Hard Drive;Toshiba;900000;14
+6;Headset;Corsair;400000;20
+30;Headset;Razer;500000;18
+54;Headset;Jabra;450000;17
+78;Headset;Sony;550000;14
+106;Headset;JBL;420000;19
+130;Headset;SteelSeries;450000;15
+154;Headset;Jabra;500000;16
+178;Headset;Sony;480000;17
+1;Keyboard;Logitech;150000;25
+25;Keyboard;Corsair;350000;20
+49;Keyboard;Razer;400000;19
+73;Keyboard;Logitech;160000;21
+97;Keyboard;Corsair;370000;22
+101;Keyboard;Razer;350000;23
+125;Keyboard;Ducky;380000;20
+149;Keyboard;Logitech;170000;21
+173;Keyboard;Ducky;390000;21
+197;Keyboard;Logitech;180000;22
+22;Lampu LED;Philips;150000;30
+46;Lampu LED;Osram;180000;28
+70;Lampu LED;Energizer;160000;27
+94;Lampu LED;Philips;170000;28
+122;Lampu LED;GE;160000;31
+146;Lampu LED;Osram;180000;29
+170;Lampu LED;Philips;170000;28
+194;Lampu LED;GE;160000;30
+5;Laptop;Asus;7500000;8
+29;Laptop;Acer;7000000;7
+53;Laptop;HP;7800000;6
+77;Laptop;Lenovo;6900000;7
+105;Laptop;MSI;7200000;9
+129;Laptop;Acer;7100000;8
+153;Laptop;Lenovo;6800000;6
+177;Laptop;HP;7300000;6
+21;Microphone;Blue;600000;12
+45;Microphone;Rode;700000;11
+69;Microphone;Shure;650000;10
+93;Microphone;AKG;700000;9
+121;Microphone;AKG;650000;13
+145;Microphone;Rode;700000;12
+169;Microphone;Shure;700000;10
+193;Microphone;AKG;700000;11
+17;Modem;Huawei;450000;20
+41;Modem;ZTE;400000;23
+65;Modem;Linksys;500000;18
+89;Modem;TP-Link;430000;20
+117;Modem;TP-Link;420000;21
+141;Modem;ZTE;430000;22
+165;Modem;Huawei;450000;20
+189;Modem;Linksys;420000;22
+3;Monitor;Acer;2500000;15
+27;Monitor;Dell;2200000;13
+51;Monitor;LG;2400000;10
+75;Monitor;AOC;2300000;12
+99;Monitor;BenQ;2600000;10
+103;Monitor;Samsung;2600000;16
+127;Monitor;BenQ;2400000;14
+151;Monitor;LG;2300000;11
+175;Monitor;Samsung;2500000;12
+199;Monitor;BenQ;2600000;9
+2;Mouse;Razer;120000;30
+26;Mouse;Logitech;180000;28
+50;Mouse;Corsair;140000;32
+74;Mouse;Razer;160000;33
+98;Mouse;SteelSeries;190000;31
+102;Mouse;Logitech;130000;34
+126;Mouse;Corsair;150000;29
+150;Mouse;Razer;160000;30
+174;Mouse;SteelSeries;200000;32
+198;Mouse;Corsair;160000;31
+12;Mousepad;SteelSeries;75000;35
+36;Mousepad;Razer;100000;34
+60;Mousepad;Corsair;90000;36
+84;Mousepad;SteelSeries;80000;39
+112;Mousepad;HyperX;85000;38
+136;Mousepad;Corsair;95000;37
+160;Mousepad;SteelSeries;90000;36
+184;Mousepad;Corsair;95000;39
+24;Power Bank;Xiaomi;300000;25
+48;Power Bank;Anker;350000;22
+72;Power Bank;Belkin;320000;30
+96;Power Bank;XO;350000;26
+124;Power Bank;RAVPower;320000;27
+148;Power Bank;Anker;340000;31
+172;Power Bank;XO;340000;26
+196;Power Bank;RAVPower;330000;28
+4;Printer;HP;750000;10
+28;Printer;Canon;850000;9
+52;Printer;Brother;900000;8
+76;Printer;Epson;800000;11
+100;Printer;Xerox;850000;9
+104;Printer;Brother;800000;11
+128;Printer;Epson;850000;10
+152;Printer;Canon;900000;10
+176;Printer;Xerox;850000;8
+200;Printer;HP;900000;9
+18;Printer Ink;Epson;200000;25
+42;Printer Ink;Canon;220000;20
+66;Printer Ink;Brother;210000;22
+90;Printer Ink;Epson;230000;21
+118;Printer Ink;HP;210000;26
+142;Printer Ink;Canon;220000;23
+166;Printer Ink;Brother;230000;22
+190;Printer Ink;Epson;200000;24
+10;Router;TP-Link;600000;22
+34;Router;Netgear;700000;17
+58;Router;D-Link;650000;19
+82;Router;Linksys;750000;16
+110;Router;ASUS;750000;15
+134;Router;Linksys;650000;22
+158;Router;TP-Link;680000;17
+182;Router;Netgear;700000;16
+23;Smartwatch;Garmin;2000000;8
+47;Smartwatch;Samsung;2500000;7
+71;Smartwatch;Fitbit;2200000;9
+95;Smartwatch;Withings;2400000;8
+123;Smartwatch;Huawei;2300000;7
+147;Smartwatch;Garmin;2500000;8
+171;Smartwatch;Fitbit;2200000;9
+195;Smartwatch;Huawei;2400000;8
+9;Speakers;Creative;500000;12
+33;Speakers;Bose;800000;11
+57;Speakers;Harman Kardon;600000;13
+81;Speakers;JBL;650000;15
+109;Speakers;Edifier;550000;14
+133;Speakers;JBL;600000;12
+157;Speakers;Harman Kardon;620000;13
+181;Speakers;Edifier;580000;12
+7;USB Flash Drive;Kingston;100000;50
+31;USB Flash Drive;SanDisk;120000;40
+55;USB Flash Drive;Transcend;150000;38
+79;USB Flash Drive;Lexar;130000;42
+107;USB Flash Drive;Patriot;110000;52
+131;USB Flash Drive;SanDisk;140000;45
+155;USB Flash Drive;Transcend;130000;46
+179;USB Flash Drive;Lexar;120000;44
+8;Webcam;Logitech;300000;18
+32;Webcam;Microsoft;350000;16
+56;Webcam;A4Tech;270000;14
+80;Webcam;Creative;290000;17
+108;Webcam;A4Tech;250000;20
+132;Webcam;Logitech;320000;19
+156;Webcam;Microsoft;330000;18
+180;Webcam;A4Tech;260000;15

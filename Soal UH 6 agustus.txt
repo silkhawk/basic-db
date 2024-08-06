@@ -1,0 +1,25 @@
+
+Tugas UH selasa 6 Agustus 2024
+
+Perintah SQL untuk :
+
+1. membuat database
+2. membuat table
+3. mengisi data 1
+4. mengisi data lebih dari 1
+5. mengedit data
+6. menghapus data
+7. mengganti stuktur field
+
+Memahami tipe data
+
+memahami konsep primary key
+
+memahami query dasar:
+1. melihat seluruh field
+2. melihat Sebagian field
+3. mengurutkan data
+4. mengunakan count()
+5. mengunakan between()
+6. menggunakan LIKE
+7. menggunakan WHERE
